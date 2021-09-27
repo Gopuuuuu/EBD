@@ -1,9 +1,9 @@
-<h1 align="center">⚡ EBD BOT/h1>
+<h1 align="center">⚡ ADVENTURE BOT/h1>
 
 
 <h2>Don't forget to star this repo if you liked it.!!💝</h2>
 
-[![AuraXBot logo](https://telegra.ph/file/02b3cd87cd7d9b2eac7b1.jpg)
+[![Adventure logo](https://telegra.ph/file/02b3cd87cd7d9b2eac7b1.jpg)
 ](@adventure_family)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -52,7 +52,7 @@
 ```
 Get help regarding setting up 
 
-your AuraXBot in our official 
+your Adventure bot in our official 
 
 support Group and get updates
 
@@ -61,10 +61,10 @@ notifications in Update Channel.
 
 <a href="https://t.me/AuraXUserbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/AuraXSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Adventure_family"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/AuraXOwner)
+[![Contact Me](@teri_behn_ka_bf) 
 
 
 
@@ -74,7 +74,7 @@ notifications in Update Channel.
 
 Copyright (C) 2021 iisgaurav
 
-Poject [AuraXBot](https://github.com/iisgaurav/AuraXBot) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
+Poject [AdventureBot](https://github.com/Gopuuuuu/EBD.git) is free software under the License [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) v3 or later.
 
 
 
